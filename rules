@@ -1,5 +1,6 @@
 [AutoProxy 0.2.9]
 ! Title: MyAutoProxyRules
+! Version: 0.0.1 
 
 !################Blacklist Start################
 ||freenom.com
