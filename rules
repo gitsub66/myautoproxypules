@@ -1,6 +1,7 @@
 [AutoProxy 0.2.9]
 ! Title: MyAutoProxyRules
 
+!################Blacklist Start################
 ||freenom.com
 ||v2rayssr.com
 ||bing.com
@@ -30,3 +31,9 @@
 ||skype.com
 ||mgnetu.com
 ||playvalorant.com
+!#############Blacklist End#############
+
+!################Whitelist Start################
+@@||aabbccxx.com
+
+!#############Whitelist End#############
