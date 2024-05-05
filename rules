@@ -1,53 +1,48 @@
-[AutoProxy 0.2.9]
-! Title: MyAutoProxyRules
-! Version: 0.0.1 
-
 !################Blacklist Start################
-||freenom.com
-||v2rayssr.com
-||bing.com
-||apache.org
+!#Microsoft
 ||microsoft.com
 ||live.com
 ||msocdn.com
 ||onedrive.com
-||offcie.com
+||office.com
 ||microsoftonline.com
+||sharepoint.com
+||skype.com
+||bing.com
+!#openai
+||ai.com
+||chat.openai.com
+||chatgpt.com
+||openai.com
+!#oracle
 ||oraclecloud.com
+||cloud.oracle.com
+!#riotgames
+||riotgames.com
+||playvalorant.com
+!#androeed
+||androeed.store
+||androeed.ru
+||androeed.cn
+!#others
+||freenom.com
+||apache.org
+||v2rayssr.com
 ||afndaily.com
 ||steamdb.info
 ||cloudflare.com
 ||paypal.com
-||ai.com
-||chat.openai.com
-||sharepoint.com
-||kox.moe
-||ivacy.com
 ||claude.ai
 ||anthropic.com
 ||rargb.to
-||1337x.to
-||office.com
 ||btnull.org
-||riotgames.com
-||oraclecloud.com
-||cloud.oracle.com
-||skype.com
 ||mgnetu.com
-||playvalorant.com
-||openai.com
-||ai.com
 ||1fichier.com
 ||skidrowreloaded.com
 ||nsw2u.com
 ||ouo.io
 ||unwire.hk
-||androeed.store
-||androeed.ru
-||androeed.cn
-!#############Blacklist End#############
-
-!################Whitelist Start################
-@@||aabbccxx.com
-
-!#############Whitelist End#############
+||kox.moe
+||ivacy.com
+||1337x.to
+!#############Blacklist End################
