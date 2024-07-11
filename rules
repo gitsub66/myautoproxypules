@@ -23,6 +23,9 @@
 ||androeed.store
 ||androeed.ru
 ||androeed.cn
+!#cloudflare
+||cloudflare.com
+||cloudflare-cn.com
 !#others
 ||docker.com
 ||gitlab.com
@@ -32,7 +35,6 @@
 ||v2rayssr.com
 ||afndaily.com
 ||steamdb.info
-||cloudflare.com
 ||paypal.com
 ||claude.ai
 ||anthropic.com
