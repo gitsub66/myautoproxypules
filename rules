@@ -41,6 +41,12 @@
 ||cloudfront.net
 ||pointtoserver.com
 
+!#apkpure
+||apkpure.com
+||apkpure.net
+||cdnpure.com
+||pureapk.com
+||winudf.com
 
 !#others
 ||docker.com
@@ -80,5 +86,4 @@
 ||rin.ru
 ||loverslab.com
 ||wickedwhimsmod.com
-||apkpure.com
 !################AutoProxy Rules End################
