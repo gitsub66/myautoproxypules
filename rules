@@ -48,7 +48,20 @@
 ||pureapk.com
 ||winudf.com
 
-!#others
+!#xykcloud
+g2.cnfq.eu.org
+g3.cnfq.eu.org
+g4.cnfq.eu.org
+g17.cnfq.eu.org
+g18.cnfq.eu.org
+g19.cnfq.eu.org
+g20.cnfq.eu.org
+g21.cnfq.eu.org
+web.cnfq.eu.org
+gcp.cnfq.eu.org
+bw0.cnfq.eu.org
+
+!#docker
 ||docker.com
 ||docker.io
 
