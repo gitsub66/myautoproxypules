@@ -57,22 +57,9 @@ g18.cnfq.eu.org
 g19.cnfq.eu.org
 g20.cnfq.eu.org
 g21.cnfq.eu.org
-web.cnfq.eu.org
-gcp.cnfq.eu.org
-bw0.cnfq.eu.org
-g2.cnfq.eu.org:16888
-g3.cnfq.eu.org:16888
-g4.cnfq.eu.org:16888
-g17.cnfq.eu.org:16888
-g18.cnfq.eu.org:16888
-g19.cnfq.eu.org:16888
-g20.cnfq.eu.org:16888
-g21.cnfq.eu.org:16888
-web.cnfq.eu.org:16888
-gcp.cnfq.eu.org:16888
-bw0.cnfq.eu.org:16888
-bw0.cnfq.eu.org:9003
-
+web.xykcloud.com
+gcp.xykcloud.com
+bw0.xykcloud.com
 
 !#docker
 ||docker.com
