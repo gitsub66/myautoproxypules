@@ -60,6 +60,8 @@ g21.cnfq.eu.org
 web.xykcloud.com
 gcp.xykcloud.com
 bw0.xykcloud.com
+push.xykcloud.com
+nz.xykcloud.com
 
 !#docker
 ||docker.com
