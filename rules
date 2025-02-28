@@ -62,6 +62,7 @@ gcp.xykcloud.com
 bw0.xykcloud.com
 push.xykcloud.com
 nz.xykcloud.com
+pan.xykcloud.com
 
 !#docker
 ||docker.com
