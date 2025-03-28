@@ -49,20 +49,20 @@
 ||winudf.com
 
 !#xykcloud
-g2.cnfq.eu.org
-g3.cnfq.eu.org
-g4.cnfq.eu.org
-g17.cnfq.eu.org
-g18.cnfq.eu.org
-g19.cnfq.eu.org
-g20.cnfq.eu.org
-g21.cnfq.eu.org
-web.xykcloud.com
-gcp.xykcloud.com
-bw0.xykcloud.com
-push.xykcloud.com
-nz.xykcloud.com
-pan.xykcloud.com
+||g2.cnfq.eu.org
+||g3.cnfq.eu.org
+||g4.cnfq.eu.org
+||g17.cnfq.eu.org
+||g18.cnfq.eu.org
+||g19.cnfq.eu.org
+||g20.cnfq.eu.org
+||g21.cnfq.eu.org
+||web.xykcloud.com
+||gcp.xykcloud.com
+||bw0.xykcloud.com
+||push.xykcloud.com
+||nz.xykcloud.com
+||pan.xykcloud.com
 
 !#docker
 ||docker.com
@@ -112,4 +112,5 @@ pan.xykcloud.com
 ||patreonusercontent.com
 ||store.steampowered.com
 ||unlock-music.dev
+||deaderpool-mccc.com
 !################AutoProxy Rules End################
