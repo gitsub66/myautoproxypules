@@ -71,6 +71,7 @@
 ||docker.io
 
 !#others
+||tailscale.com
 ||github.com
 ||gitlab.com
 ||ghcr.io
