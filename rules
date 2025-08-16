@@ -11,6 +11,7 @@
 ||bing.com
 ||onenote.com
 
+
 !#openai
 ||ai.com
 ||chat.openai.com
@@ -70,6 +71,7 @@
 ||docker.io
 
 !#others
+||playstation.com
 ||github.com
 ||gitlab.com
 ||ghcr.io
